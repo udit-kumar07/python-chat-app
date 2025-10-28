@@ -1,9 +1,6 @@
 import socket
 import threading
 import datetime
-# helllo
-
-
 
 # ---------- SERVER SETUP ----------
 HOST = '127.0.0.1'   # Localhost (use LAN IP to chat across devices)
